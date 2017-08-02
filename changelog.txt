@@ -1,0 +1,3 @@
+Dodal prvi primer Tutoriala
+
+iz http://doc.babylonjs.com/tutorials/creating_a_basic_scene
